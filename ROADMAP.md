@@ -42,3 +42,13 @@
 - [ ] Multi-agent robotics
 - [ ] Cloud synchronization
 - [ ] Distributed AI modules
+
+---
+
+## Source Code Availability
+
+The implementation of GEN17 is maintained in a private repository during active development.
+
+This public repository is intended to document the project's architecture, engineering concepts, and long-term vision.
+
+Recruiters, researchers, and collaborators may contact the author for additional technical discussions or demonstrations.
